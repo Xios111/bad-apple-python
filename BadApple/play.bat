@@ -1,0 +1,2 @@
+C:\Users\PC\AppData\Local\Programs\Python\Python311\python.exe badapple.py
+pause
